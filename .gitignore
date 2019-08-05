@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# contains credentials, documentation in example.hcloud.ini
+hcloud.ini
